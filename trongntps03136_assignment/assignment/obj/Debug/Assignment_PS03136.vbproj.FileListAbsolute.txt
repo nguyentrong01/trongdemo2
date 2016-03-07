@@ -1,0 +1,19 @@
+C:\Users\Meo\Desktop\SoftQLBanHangVB\New folder\New folder\trongntps03136_assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\Meo\Desktop\SoftQLBanHangVB\New folder\New folder\trongntps03136_assignment\assignment\obj\Debug\assignment.exe
+C:\Users\Meo\Desktop\SoftQLBanHangVB\New folder\New folder\trongntps03136_assignment\assignment\obj\Debug\assignment.xml
+C:\Users\Meo\Desktop\SoftQLBanHangVB\New folder\New folder\trongntps03136_assignment\assignment\obj\Debug\assignment.pdb
+D:\trongntps03136_assignment\assignment\bin\Debug\assignment.exe.config
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.exe
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.xml
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.pdb
+D:\trongntps03136_assignment\assignment\bin\Debug\assignment.exe
+D:\trongntps03136_assignment\assignment\bin\Debug\assignment.pdb
+D:\trongntps03136_assignment\assignment\bin\Debug\assignment.xml
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmThemSP.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmThemKH.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmKhachHang.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmTrangChinh.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmXemSP.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.Resources.resources
+D:\trongntps03136_assignment\assignment\obj\Debug\Assignment_PS03136.vbproj.GenerateResource.Cache
+D:\trongntps03136_assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
